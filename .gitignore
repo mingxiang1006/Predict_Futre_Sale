@@ -1,7 +1,9 @@
 # Files
-src/DA_Predict_Sales.ipynb
+docs/
 data_local/
 .vscode/
+.git
+.ipynb_checkpoints
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
