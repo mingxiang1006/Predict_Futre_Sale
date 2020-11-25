@@ -1,0 +1,7 @@
+Data Cleaning Idea
+1) Find distinct value for all column
+ 1.1) Can we combine similar product description/ID, etc? 
+2) Find any NA data/negative data
+3) Find distibution for the products
+4) Find the trend of the sales - To check any outlayer
+2) Do grouping for product? 
