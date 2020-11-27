@@ -4,4 +4,5 @@ Data Cleaning Idea
 2) Find any NA data/negative data
 3) Find distibution for the products
 4) Find the trend of the sales - To check any outlayer
-2) Do grouping for product? 
+5) Do grouping for product? 
+6) Clean up Description of the product. Remove the symbol - Kang
